@@ -3,7 +3,7 @@
 
 ## Key Points:
 - **Conciseness**: Recursion can express complex algorithms in a more concise and readable way compared to iterative solutions.
-- **Divide and Conquer**: Recursive functions elegantly break down large problems into smaller, manageable subproblems.
+- [**Divide and Conquer**:](divide-and-conquer-explained.md) Recursive functions elegantly break down large problems into smaller, manageable subproblems.
 - **Backtracking**: Recursion facilitates backtracking algorithms, crucial for solving problems like maze traversal or graph search.
 - **Natural for some problems**: Certain problems have a natural recursive structure, and solving them recursively often feels more intuitive and straightforward.
 - **Not always efficient**: Be aware that recursion can lead to inefficiencies due to function call overhead. Consider iterative solutions for performance-critical situations.
@@ -11,7 +11,7 @@
 ## Common Use Cases:
 - **Factorial calculation**: Finding the factorial of a number requires multiplying it by all smaller positive integers, a natural fit for recursion.
 - **Fibonacci sequence**: Calculating the nth Fibonacci number involves summing the (n-1)th and (n-2)th Fibonacci numbers, effectively defining the sequence recursively.
-- **Searching algorithms**: [Binary search](binary-search-explained.md) and quicksort both rely on recursion to efficiently divide and conquer the search space.
+- **Searching algorithms**: [Binary search](binary-search-explained.md) and quicksort both rely on [recursion](recursion-explained.md) to efficiently [divide and conquer](divide-and-conquer-explained.md) the search space.
 - **Tree and graph traversal**: Depth-first and breadth-first search algorithms for traversing trees and graphs naturally utilize recursion to explore all connected nodes.
 - **Fractals**: Drawing complex fractal patterns like the Mandelbrot set involves repeatedly applying a recursive formula, creating intricate self-similar shapes.
 

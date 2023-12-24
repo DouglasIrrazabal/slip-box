@@ -25,7 +25,7 @@ function factorialTCO(n: number, accumulator: number = 1): number {
   - **Prevention:** Restructure code to ensure the recursive call is the last action.
 - **Compiler/Interpreter Limitations:** Not all environments support TCO.
   - **Prevention:** Check for language/runtime support and consider alternative strategies (e.g., iterative solutions, trampolines).
-- **Incorrect Assumptions:** TCO doesn't guarantee infinite recursion prevention.
+- **Incorrect Assumptions:** TCO doesn't guarantee infinite [recursion](recursion-explained.md) prevention.
   - **Prevention:** Always maintain a clear base case for termination.
 
 ## Additional Notes:

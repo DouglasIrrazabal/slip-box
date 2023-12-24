@@ -38,4 +38,4 @@ function factorial(n: number): number {
 
 ## Additional Notes:
 - **Debugging Recursion**: Trace function calls and variable values to identify errors.
-- **Applications**: Tree traversals, sorting algorithms (e.g., merge sort), fractals, divide-and-conquer problems.
+- **Applications**: Tree traversals, sorting algorithms (e.g., merge sort), fractals, [divide-and-conquer](divide-and-conquer-explained.md) problems.
