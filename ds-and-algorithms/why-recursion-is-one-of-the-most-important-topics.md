@@ -1,5 +1,5 @@
 # Why Recursion is One of the Most Important Topics
-[Recursion](DS&Algo\recursion-explained.md) is a powerful programming technique where a function calls itself within its own body. This might seem counterintuitive, but it allows us to elegantly solve problems that would be difficult or cumbersome using iteration (looping). Recursion often deals with self-similar structures, breaking them down into smaller subproblems that resemble the original.
+[Recursion](recursion-explained.md) is a powerful programming technique where a function calls itself within its own body. This might seem counterintuitive, but it allows us to elegantly solve problems that would be difficult or cumbersome using iteration (looping). Recursion often deals with self-similar structures, breaking them down into smaller subproblems that resemble the original.
 
 ## Key Points:
 - **Conciseness**: Recursion can express complex algorithms in a more concise and readable way compared to iterative solutions.
