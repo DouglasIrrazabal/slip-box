@@ -18,5 +18,5 @@
 ## Things to Consider about Recursion:
 - **Base case**: Ensure your function has a clear base case to prevent infinite loops.
 - **Depth limit**: Be mindful of potential stack overflow due to excessive recursion depth.
-- **Tail recursion**: Optimize recursive functions for tail recursion to improve efficiency.
+- [**Tail recursion**:](tail-recursion-optimization-explained.md) Optimize recursive functions for tail recursion to improve efficiency.
 - **Alternative solutions**: Consider alternative non-recursive solutions for performance-critical situations.
