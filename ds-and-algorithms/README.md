@@ -8,7 +8,7 @@ These are fundamental data structures where nodes are connected in a linear sequ
 This algorithm explores a tree structure level by level, visiting all nodes at a given depth before moving to the next. It's a versatile technique for finding shortest paths or specific nodes in trees.
 ### Graph BFS
 Similar to Tree BFS, but applied to graphs, where nodes can have multiple connections. BFS can be used for tasks like finding connected components or shortest paths in graphs.
-### Two Pointers
+### [Two Pointers](two-pointers-explained.md)
 This technique involves using two pointers to iterate through an array or string simultaneously, often in opposite directions. It's efficient for solving problems involving finding specific sub-sequences, checking palindrome strings, or finding missing elements.
 
 ## High-ROI Patterns with Medium Learning
