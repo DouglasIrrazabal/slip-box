@@ -35,3 +35,7 @@ function factorial(n: number): number {
 - **Excessive Recursion:** Can impact performance and stack space.
     - **Prevention:** Consider iterative solutions for simpler problems.
     - **Mitigation:** Tail recursion optimization (if supported) can reduce stack usage.
+
+## Additional Notes:
+- **Debugging Recursion**: Trace function calls and variable values to identify errors.
+- **Applications**: Tree traversals, sorting algorithms (e.g., merge sort), fractals, divide-and-conquer problems.
